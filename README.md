@@ -15,7 +15,7 @@ Para percorrer o array mencionado acima utilizei-me do laço de repetição [for
 
 <div align="center">
 
-![Alt text](image-4.png)
+![Alt text]([image-4.png](https://github.com/uri-hub/contador-de-palavras/blob/main/image.png))
 
 </div>
 
