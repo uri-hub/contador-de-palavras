@@ -15,7 +15,7 @@ Para percorrer o array mencionado acima utilizei-me do laço de repetição [for
 
 <div align="center">
 
-![Imagem do código]([[[image-4.png](https://github.com/uri-hub/contador-de-palavras/blob/main/Captura%20de%20tela%202023-08-30%20212948.jpg)
+![Imagem código](https://raw.githubusercontent.com/uri-hub/contador-de-palavras/main/Captura%20de%20tela%202023-08-30%20212948.jpg)
 
 </div>
 
